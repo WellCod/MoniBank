@@ -6,9 +6,11 @@
 
 
 
-## Tecnologias utilizadas durante o curso
+## Tecnologias utilizadas
 * JavaScript
-
-## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+
+## Conceitos utilizadas no projeto
+ * formulário com regras de validação personalizado como cpf usando regex data de nacimento => 18 anos campo email valido dentre outros
+ * reconhecimento facial (fake no momento) onde captura a imagem da webcam salva a img no localStorage
